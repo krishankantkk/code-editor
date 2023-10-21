@@ -1,11 +1,11 @@
 # Code Editor
 
-deployed link ![deployed link]((https://code-editor-krishan-kant.netlify.app/))
+deployed on Netlify [deployed link](https://code-editor-krishan-kant.netlify.app/)
 
 
 ## Introduction
 
-Code Editor is a simple, lightweight web-based code editor that allows you to write code in HTML, CSS, Javascript programming languages. This project is built using HTML, CSS, and JavaScript and provides basic features like copy, indentation, and a lock/unlock button to secure your code.
+Code Editor is a simple, lightweight web-based code editor that allows you to write code in HTML, CSS, and Javascript programming languages. This project is built using HTML, CSS, and JavaScript and provides basic features like copy, indentation, and a lock/unlock button to secure your code.
 
 ## Features
 
@@ -37,7 +37,9 @@ You need to have a web browser installed on your system.
 ### Run project
 1. Open the cloned project directory:
 
-cd code-editor
+```bash
+  cd code-editor
+```
 
 2. Open the index.html file in your preferred web browser.
 
@@ -49,7 +51,6 @@ If you would like to contribute to this project, please fork the repository and 
 
 ### Contact
 If you have any questions or need further assistance, feel free to contact the project owner:
-
 Krishan Kant
 Email: kantk1508@gmail.com
 
